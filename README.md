@@ -14,8 +14,8 @@ Run `CREATE DATABASE grafana` in `psql` to make the database. Then, start up an 
 Tested on:
 
 | OS             | SQLite Version | Postgres Version | Grafana Version |
-| -------------- | -------------- | ---------------- | --------------- |
-| MacOS          | 3.24.0         | 11.3             | 6.1.0+          |
+| -------------- | -------------- |------------------|-----------------|
+| MacOS          | 3.24.0         | 14.5             | 9.4.7+          |
 | CentOS 7/RHEL7 | 3.7.17         | 11.3             | 6.1.0+          |
 | Fedora 36      | 3.36.0         | 15.0             | 9.2.0           |
 
